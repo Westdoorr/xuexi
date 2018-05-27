@@ -1,0 +1,17 @@
+#nav{
+    line-height:30px;
+    background-color: dodgerblue;
+    height:800px;
+    width:200px;
+    float:left;
+    padding:5px;
+    color: white;
+}
+#section{
+    width:1000px;
+    float:left;
+    padding:10px;
+}
+.kuangjia{
+    padding-left: 500px;
+}
