@@ -1,0 +1,22 @@
+#nav{
+    line-height:30px;
+    background-color: dodgerblue;
+    height:900px;
+    width:200px;
+    float:left;
+    padding:5px;
+    color: white;
+}
+#section{
+    width:1000px;
+    float:left;
+    padding:10px;
+}
+.th{
+    background-color: darkgray;
+    height: 120px;
+}
+td{
+    vertical-align: top;
+    width:1000px;
+}
